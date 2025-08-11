@@ -18,4 +18,3 @@ export default function AnimatedHeading({ children }: AnimatedHeadingProps) {
     </motion.h1>
   )
 }
-
