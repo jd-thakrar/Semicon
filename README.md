@@ -4,7 +4,7 @@ A modern, responsive website for the Semiconductor Design and Development Worksh
 
 ## 🚀 Live Demo
 
-**[View Live Site](https://vercel.com/jdthakrar05-gmailcoms-projects/v0-semiconductor-workshop-ze59wubtbf0)**
+**[View Live Site](https://va6ajr5q70je8fnw.vercel.app/)**
 
 ## 📋 About the Workshop
 
@@ -173,17 +173,6 @@ The website is fully responsive with breakpoints:
 - **Email**: dicavpti2025@gmail.com
 - **Organization**: Design Innovation Center, AVPTI, Rajkot
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -196,4 +185,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Built with ❤️ for the Semiconductor Community**
 
-*Automatically synced with [v0.app](https://v0.app) deployments*
